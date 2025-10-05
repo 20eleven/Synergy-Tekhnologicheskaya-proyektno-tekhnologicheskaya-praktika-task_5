@@ -19,7 +19,9 @@
 
   	✔️ Оценка удобства передвижения / безопасности / населенности / растительности
 
-
+<img width="633" height="300" alt="image" src="https://github.com/user-attachments/assets/1646e22b-e769-4c1d-bda0-41be8a2ef2eb" />
+<img width="633" height="300" alt="image" src="https://github.com/user-attachments/assets/c7a8411e-f338-41b9-9630-26e43bfeee2b" />
+<img width="633" height="300" alt="image" src="https://github.com/user-attachments/assets/e2de8fe6-d17c-49e8-bb0d-bb9bc722b17b" />
 
 ___
 > In the project directory, you can run:
